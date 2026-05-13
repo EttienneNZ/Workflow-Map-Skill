@@ -10,6 +10,7 @@ The output is two files — `workflows.json` (data) and `workflows.html` (render
 - **Flows** as ordered sequences of edges. Each step records its `from`, `to`, a short action label, the payload that is passed, and the file responsible.
 - **Interactive renderer** with synchronized hover highlighting — hovering an edge, its step number, or the matching row in the right panel highlights the path, both endpoint boxes, and the row simultaneously.
 
+<img width="3350" height="1799" alt="WorkflowMap example" src="https://github.com/user-attachments/assets/bc086197-53c2-4db0-905d-2b7ecae5e5ab" />
 
 
 ## Installation
